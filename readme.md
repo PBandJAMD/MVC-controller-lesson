@@ -14,6 +14,7 @@ MVC is the structured format for a fullstack application. MVC stands for:
 - Controllers: Dedicated to communicating between the user, server, and database
 
 ![Imgur](http://www.techgeekbuzz.com/wp-content/uploads/2019/06/MVC-Architecture.png)
+
 ![Imgur](https://medium.com/@noufel.gouirhate/create-your-own-mvc-framework-in-php-af7bd1f0ca19)
 
 ## Part 1: Setting up Express & Mustache
@@ -333,4 +334,6 @@ Navigate to localhost:8000 in your browser and click on the links to make sure i
 
 CONGRATULATIONS!! You just made a Fullstack application while learning how controllers work! If you have errors, make sure to look at the correct file, and see which line the error begins with. Remember to go back and read these instructions very carefully in case you missed something. 
 
-Enjoy your weekend!!!
+![Imgur](http://giphygifs.s3.amazonaws.com/media/2LtirSCxAC0ve/giphy.gif)
+
+Be sure to check under your bed for monsters, and sleep tight!!
