@@ -3,7 +3,7 @@
 ![Imgur](https://media.giphy.com/media/6IKKaXzULZJFm/giphy.gif)
 
 ### Completion:
-The entire 
+The entire project (Make the Giant Squid at the bottom of this page proud!)
 
 #### What is MVC?
 
