@@ -19,7 +19,7 @@ MVC is the structured format for a fullstack application. MVC stands for:
 
 ## Part 1: Setting up Express & Mustache
 
-So I handed you a few files (in the form of text on this readme.md), just be sure to double check that you're copying the text correctly and ** possibly eliminating some white space that it creates. **
+So I handed you a few files (in the form of text on this readme.md), just be sure to double check that you're copying the text correctly and **possibly eliminating some white space that it creates.**
 
 1. Create homework directory: `mkdir monster-media`
 2. `cd monster-media`
