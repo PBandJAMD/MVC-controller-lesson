@@ -299,7 +299,7 @@ Place the following code on the appropriate files
 </html>
 ```
 
-#### ./views/monster.html
+#### ./views/monsters.html
 
 ```html
 <!doctype html>
