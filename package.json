@@ -1,0 +1,25 @@
+{
+  "name": "MVC-controller-lesson",
+  "version": "1.0.0",
+  "description": "![Imgur](https://media.giphy.com/media/6IKKaXzULZJFm/giphy.gif)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PBandJAMD/MVC-controller-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PBandJAMD/MVC-controller-lesson/issues"
+  },
+  "homepage": "https://github.com/PBandJAMD/MVC-controller-lesson#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mustache-express": "^1.3.0"
+  }
+}

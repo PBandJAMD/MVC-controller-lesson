@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>The Monsters</title>
+  </head>
+
+  <body>
+    <h1>Here are the Monsters</h1>
+    <div class="container">
+      {{#monsterNames}}
+      <p>
+        <a href="/monsters/{{.}}">{{.}}</a>
+      </p>
+      {{/monsterNames}}
+    </div>
+  </body>
+</html>
